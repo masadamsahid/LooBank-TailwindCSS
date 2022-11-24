@@ -34,7 +34,7 @@ const Footer = () => (
       </div>
     </div>
     
-    <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3f3r45]">
+    <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3f3e45]">
       <p className="font-poppins font-medium text-center text-[18px] leading-[27px] text-white">
         Copyright © 2022 LooBank. All Rights Reserved.
       </p>
