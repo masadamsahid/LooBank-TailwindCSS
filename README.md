@@ -8,3 +8,5 @@ I learned and implemented most of the things in the tutorial. In this project, t
 - [Tailwind CSS](https://tailwindcss.com/docs/ "Tailwind CSS")
 - [ReactJS](https://reactjs.org "React JS")
 - [Vite](https://vitejs.dev "Vite")
+
+> Check the live demo [here](https://loobank.netlify.app "LooBank Landing Page")
